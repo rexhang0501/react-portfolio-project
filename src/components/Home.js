@@ -48,7 +48,7 @@ const Home = () => {
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>
                     <RouterLink className='md:hidden text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#373741] duration-500 cursor-pointer'
-                    to="react-portfolio-project/my-resume">
+                    to="/react-portfolio-project/my-resume">
                         View my resume
                         <CiViewList className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>

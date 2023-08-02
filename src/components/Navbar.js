@@ -108,7 +108,7 @@ const Navbar = () => {
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#373741]'>
-                        <RouterLink className='flex justify-between items-center w-full text-gray-300' to="react-portfolio-project/my-resume">
+                        <RouterLink className='flex justify-between items-center w-full text-gray-300' to="/react-portfolio-project/my-resume">
                             View my Resume <CiViewList size={30}/>
                         </RouterLink>
                     </li>

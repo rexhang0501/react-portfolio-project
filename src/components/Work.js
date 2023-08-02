@@ -1,6 +1,7 @@
 import WorkImg1 from '../assets/workImg1.png';
 import WorkImg2 from '../assets/workImg2.png';
 import WorkImg3 from '../assets/workImg3.png';
+import { Link } from 'react-scroll';
 
 const Work = () => {
     return(
@@ -23,10 +24,10 @@ const Work = () => {
                                         and the basic of TailwindCSS as well as showcasing my portfolio.</span>
                                 </div>
                                 <div className='pt-8 text-center'>
-                                    <a href="/">
+                                    <Link to="home" smooth={true} duration={500}>
                                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                                    </a>
-                                    <a href="/">
+                                    </Link>
+                                    <a href="https://github.com/rexhang0501/react-portfolio-project">
                                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                     </a>
                                 </div>

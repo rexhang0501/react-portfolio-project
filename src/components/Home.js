@@ -18,7 +18,7 @@ const Home = () => {
                     With a strong foundation in programming languages and a creative approach to problem-solving, 
                     I continuously seek to push the boundaries of what's possible.
                     <br/><br/>
-                    What I believe, is that good thinks come to those who work their asses off. 
+                    What I believe, is that good things come to those who work their asses off. 
                     And the people who reached the top of the mountain didn't just fall there.
                     My motto is, "If you want to win the lottery, you have to make the money to buy the ticket".
                 </p>

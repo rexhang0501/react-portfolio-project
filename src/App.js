@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/react-portfolio-project">
           <Navbar />
           <Home />
           <Experience />
@@ -19,7 +19,7 @@ function App() {
           <Work />
           <Contact />
         </Route>
-        <Route exact path="/my-resume">
+        <Route exact path="/react-portfolio-project/my-resume">
           <ResumePDF />
         </Route>
       </Switch>

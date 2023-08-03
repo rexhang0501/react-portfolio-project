@@ -23,31 +23,31 @@ const Home = () => {
                     My motto is, "If you want to win the lottery, you have to make the money to buy the ticket".
                 </p>
                 <div className='grid'>
-                    <a className='md:hidden text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#0A66C2] duration-500 cursor-pointer'
+                    <a className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center hover:bg-[#0A66C2] duration-500 cursor-pointer'
                     href="https://www.linkedin.com/in/rexhang0212/">
                         Go to my LinkedIn
                         <FaLinkedin className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>
-                    <a className='md:hidden text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#333] duration-500 cursor-pointer'
+                    <a className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center hover:bg-[#333] duration-500 cursor-pointer'
                     href="https://github.com/rexhang0501">
                         Go to my GitHub
                         <FaGithub className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>
-                    <a className='md:hidden text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#075e54] duration-500 cursor-pointer'
+                    <a className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center hover:bg-[#075e54] duration-500 cursor-pointer'
                     href="https://api.whatsapp.com/send?phone=60169739397">
                         Contact me via WhatsApps
                         <AiOutlineWhatsApp className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>
-                    <a className='md:hidden text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#6fc2b1] duration-500 cursor-pointer'
+                    <a className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center hover:bg-[#6fc2b1] duration-500 cursor-pointer'
                     href={MyResume} download="Resume - SEH ZHAO HANG" target="_blank" rel="noreferrer">
                         Download my resume
                         <BsFillPersonLinesFill className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>
-                    <RouterLink className='md:hidden text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#373741] duration-500 cursor-pointer'
+                    <RouterLink className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center hover:bg-[#373741] duration-500 cursor-pointer'
                     to="/react-portfolio-project/my-resume">
                         View my resume
                         <CiViewList className='ml-2' size={30}/>

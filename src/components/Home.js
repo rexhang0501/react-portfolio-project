@@ -9,17 +9,19 @@ import MyResume from '../assets/MyResume.pdf'
 const Home = () => {
     return(
         <div name='home' className='bg-[#0a192f] w-full pt-[80px] md:h-screen'>
-            <div className='max-w-[1000px] mx-auto px-14 flex flex-col justify-center h-full'>
+            <div className='max-w-[1000px] mx-auto px-10 flex flex-col justify-center h-full'>
                 <p className='text-2xl text-pink-600'>Hi, my name is</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6] py-4'>Rex Hang</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#797979]'>I am a software developer.</h2>
                 <p class='text-[#d8d8d8] py-4 max-w-[700]'>Welcome to my portfolio website! I'm an ambitious and innovative software developer with a relentless passion for transforming cutting-edge ideas into tangible solutions. 
-                    I thrive in the dynamic world of technology and relish the challenges it brings. 
+                    I thrive in the dynamic world of technology and relish the challenges it brings.
+                    <br/><br/> 
                     With a strong foundation in programming languages and a creative approach to problem-solving, 
                     I continuously seek to push the boundaries of what's possible.
                     <br/><br/>
                     What I believe, is that good things come to those who work their asses off. 
                     And the people who reached the top of the mountain didn't just fall there.
+                    <br/><br/>
                     My motto is, "If you want to win the lottery, you have to make the money to buy the ticket".
                 </p>
                 <div className='grid'>

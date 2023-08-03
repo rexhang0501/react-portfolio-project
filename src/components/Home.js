@@ -9,7 +9,7 @@ import MyResume from '../assets/MyResume.pdf'
 const Home = () => {
     return(
         <div name='home' className='bg-[#0a192f] w-full pt-[80px] md:h-screen'>
-            <div className='max-w-[1000px] mx-auto px-16 flex flex-col justify-center h-full'>
+            <div className='max-w-[1000px] mx-auto px-14 flex flex-col justify-center h-full'>
                 <p className='text-2xl text-pink-600'>Hi, my name is</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6] py-4'>Rex Hang</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#797979]'>I am a software developer.</h2>
@@ -35,9 +35,9 @@ const Home = () => {
                         <FaGithub className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>
-                    <a className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center hover:bg-[#075e54] duration-500 cursor-pointer'
+                    <a className='md:hidden text-white text-sm border-2 px-6 py-3 my-2 flex items-center justify-start hover:bg-[#075e54] duration-500 cursor-pointer'
                     href="https://api.whatsapp.com/send?phone=60169739397">
-                        Contact me via WhatsApps
+                        Contact me on WhatsApps
                         <AiOutlineWhatsApp className='ml-2' size={30}/>
                         <HiArrowNarrowRight className='ml-2'/>
                     </a>

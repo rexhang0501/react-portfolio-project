@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/react-portfolio-project/static/css/main.7e61d47d.css",
-    "main.js": "/react-portfolio-project/static/js/main.3af8309d.js",
+    "main.js": "/react-portfolio-project/static/js/main.f56a231e.js",
     "static/media/workImg2.png": "/react-portfolio-project/static/media/workImg2.40961cd63f4ac5fea690.png",
-    "static/media/MyResume.pdf": "/react-portfolio-project/static/media/MyResume.9059cf10dca9e4f184df.pdf",
+    "static/media/MyResume.pdf": "/react-portfolio-project/static/media/MyResume.0eedb0b1918838fe732c.pdf",
     "static/media/logo.png": "/react-portfolio-project/static/media/logo.6553fcb494dd04852c11.png",
     "static/media/workImg1.png": "/react-portfolio-project/static/media/workImg1.96dd2f571e055e267fc2.png",
     "static/media/workImg3.png": "/react-portfolio-project/static/media/workImg3.d95f801ffe569e815956.png",
@@ -15,10 +15,10 @@
     "static/media/javascriptLogo.png": "/react-portfolio-project/static/media/javascriptLogo.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio-project/index.html",
     "main.7e61d47d.css.map": "/react-portfolio-project/static/css/main.7e61d47d.css.map",
-    "main.3af8309d.js.map": "/react-portfolio-project/static/js/main.3af8309d.js.map"
+    "main.f56a231e.js.map": "/react-portfolio-project/static/js/main.f56a231e.js.map"
   },
   "entrypoints": [
     "static/css/main.7e61d47d.css",
-    "static/js/main.3af8309d.js"
+    "static/js/main.f56a231e.js"
   ]
 }

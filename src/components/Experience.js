@@ -36,22 +36,33 @@ const Experience = () => {
                             <h3 className='text-2xl text-[#0a192f] font-bold'>Sunway University</h3>
                             <h4 className='text-xl text-[#0a192f]'>BSc (Hons) Information Technology graduated in 2022 | 3.05 CGPA</h4>
                         </VerticalTimelineElement>
-                        <VerticalTimelineElement className="vertical-timeline-element--education" date='2021 - 2022' 
+                        <VerticalTimelineElement className="vertical-timeline-element--education" date='Dec 2021 - Mar 2022' 
                         iconStyle={{background: "#3e497a", color: "#fff"}} icon={<MdWork />}>
                             <h3 className='text-2xl text-[#0a192f] font-bold'>Spassolab Sdn. Bhd.</h3>
-                            <h4 className='text-xl text-[#0a192f]'>Internship ( Dec 2021 - Mar 2022 )</h4>
+                            <h4 className='text-xl text-[#0a192f]'>Internship</h4>
                             <span className='text-[#0a192f]'>• Develop the frontend and backend of an e-commerce website during this period of time<br/></span>
                             <span className='text-[#0a192f]'>• Utilised Stacks: HTML, CSS, JavaScript, Bootstrap, Laravel, PHP, SQL<br/></span>
                         </VerticalTimelineElement>
-                        <VerticalTimelineElement className="vertical-timeline-element--education" date='2022 - 2023' 
+                        <VerticalTimelineElement className="vertical-timeline-element--education" date='Oct 2022 - May 2023' 
                         iconStyle={{background: "#3e497a", color: "#fff"}} icon={<MdWork />}>
                             <h3 className='text-2xl text-[#0a192f] font-bold'>Credential Daxonet Sdn. Bhd.</h3>
-                            <h4 className='text-xl text-[#0a192f]'>Full Time ( Oct 2022 - May 2023 )</h4>
+                            <h4 className='text-xl text-[#0a192f]'>Full Time</h4>
                             <span className='text-[#0a192f]'>• Develop and customise additional functions for the AutoCount Accounting
                                 software according to clients' requirements<br/></span>
                             <span className='text-[#0a192f]'>• Develop custom mobile application for clients to allow them to access data
                                 and information on their AutoCount Accounting account on their phones using AutoCount Accounting API Calls<br/></span>
                             <span className='text-[#0a192f]'>• Utilised Stacks: C#, SQL, React Native, JavaScript, CSS<br/></span>
+                        </VerticalTimelineElement>
+                        <VerticalTimelineElement className="vertical-timeline-element--education" date='Nov 2023 - Current' 
+                        iconStyle={{background: "#3e497a", color: "#fff"}} icon={<MdWork />}>
+                            <h3 className='text-2xl text-[#0a192f] font-bold'>BASS Sdn Bhd.</h3>
+                            <h4 className='text-xl text-[#0a192f]'>Full Time</h4>
+                            <span className='text-[#0a192f]'>• Designing and coding Web based software modules<br/></span>
+                            <span className='text-[#0a192f]'>• Perform unit testing to meet quality standard<br/></span>
+                            <span className='text-[#0a192f]'>• Identify and fix bugs within stipulated time frame<br/></span>
+                            <span className='text-[#0a192f]'>• Provide technical solutions to customer support within<br/></span>
+                            <span className='text-[#0a192f]'>• Write detailed software module documentations, including design<br/></span>
+                            <span className='text-[#0a192f]'>• Utilised Stacks: C#, , .NET Framework, SQL, SQL Server Management Studio<br/></span>
                         </VerticalTimelineElement>
                     </VerticalTimeline>
                 </div>
